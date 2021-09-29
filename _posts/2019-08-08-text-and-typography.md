@@ -1,200 +1,24 @@
 ---
-title: Text and Typography
-author: Cotes Chung
-date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
-math: true
-mermaid: true
-image:
-  src: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png
-  width: 850
-  height: 585
+title: 织梦CMS突然收费，无数中小企业或面临被起诉风险
+author: huhansome
+date: 2021-09-28 15:25:00 +0900
+categories: [新鲜事]
+tags: [织梦CMS, DedeCMS, 站群, 站长]
 ---
 
-This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
 
+无数的中小企业或者是个人站长相信对织梦CMS一点都不会陌生，甚至是已经深深引入骨髓，因为他们很多时候都是在和它打交道，然后不幸的，织梦CMS最近宣布将要收费，而不再是之前那样免费试用，这无疑对中小企业和个人站长都是沉重的打击。
 
-## Titles
----
-# H1 - heading
+织梦CMS，有太多太多的网站后台使用，然而这一次织梦要收商业授权费用的消息，真的是令人震惊。虽然不知道织梦做的网站究竟有多少，但是我估计应该有几十万个网站都使用的是织梦的程序吧，想想这一波织梦的手笔之大，比之米拓之流，有过之而无不及。那么针对这次织梦CMS的突然收费，我们应该怎么应对呢？
 
-<h2 data-toc-skip>H2 - heading</h2>
 
-<h3 data-toc-skip>H3 - heading</h3>
+一、付费买版权
 
-<h4>H4 - heading</h4>
----
-<br>
+这个是一个最容易想到的，也是给钱就能解决的方式，上交5800就给授权。只不过对于多数人来说可能有点小贵。
 
-## Paragraph
 
-I wandered lonely as a cloud
+二、换其他内容管理平台
 
-That floats on high o'er vales and hills,
+更换程序，就如这个办法的标题一样，找一个其他相类似的程序，把网站数据迁移过去。就比如DedeCMS或者WordPress之类的。但是更换程序是需要一定程序功底，需要把数据库写入其他程序里，并做好URL及其他适配，这样就能无缝衔接，保证你新更换程序之后，网站前台任何东西都无变化。可能有很多的朋友都是不会程序的，这也有一定的难度。
 
-When all at once I saw a crowd,
-
-A host, of golden daffodils;
-
-Beside the lake, beneath the trees,
-
-Fluttering and dancing in the breeze.
-
-## Lists
-
-### Ordered list
-
-1. Firstly
-2. Secondly
-3. Thirdly
-
-### Unordered list
-
-- Chapter
-	- Section
-      - Paragraph
-
-### Task list
-
-- [ ] TODO
-- [x] Completed
-- [ ] Defeat COVID-19
-  - [x] Vaccine production
-  - [ ] Economic recovery
-  - [ ] People smile again
-
-### Description list
-
-Sun
-: the star around which the earth orbits
-
-Moon
-: the natural satellite of the earth, visible by reflected light from the sun
-
-
-## Block Quote
-
-> This line to shows the Block Quote.
-
-## Tables
-
-| Company                      | Contact          | Country |
-|:-----------------------------|:-----------------|--------:|
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    | UK      |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
-
-## Links
-
-<http://127.0.0.1:4000>
-
-
-## Footnote
-
-Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
-
-
-## Images
-
-- Default (with caption)
-
-![Desktop View](https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/posts/20190808/mockup.png){: width="972" height="589" }
-_Full screen width and center alignment_
-
-<br>
-
-- Shadow
-
-![Window shadow](https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/posts/20190808/window.png){: .shadow width="1548" height="864" style="max-width: 90%" }
-_shadow effect (visible in light mode)_
-
-<br>
-
-- Left aligned
-
-![Desktop View](https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/posts/20190808/mockup.png){: width="972" height="589" style="max-width: 70%" .normal}
-
-<br>
-
-- Float to left
-
-  ![Desktop View](https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/posts/20190808/mockup.png){: width="972" height="589" style="max-width: 200px" .left}
-  "A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space."
-
-<br>
-
-- Float to right
-
-  ![Desktop View](https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/posts/20190808/mockup.png){: width="972" height="589" style="max-width: 200px" .right}
-  "A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space."
-
-<br>
-
-## Mermaid SVG
-
-```mermaid
- gantt
-  title  Adding GANTT diagram functionality to mermaid
-  apple :a, 2017-07-20, 1w
-  banana :crit, b, 2017-07-23, 1d
-  cherry :active, c, after b a, 1d
-```
-
-
-## Mathematics
-
-The mathematics powered by [**MathJax**](https://www.mathjax.org/):
-
-$$ \sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6} $$
-
-When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
-
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
-
-
-## Inline code
-
-This is an example of `Inline Code`.
-
-
-## Code block
-
-### Common
-
-```
-This is a common code snippet, without syntax highlight and line number.
-```
-
-### Specific Languages
-
-#### Console
-
-```console
-$ env |grep SHELL
-SHELL=/usr/local/bin/bash
-PYENV_SHELL=bash
-```
-
-#### Shell
-
-```bash
-if [ $? -ne 0 ]; then
-    echo "The command was not successful.";
-    #do the needful / exit
-fi;
-```
-
-### Specific filename
-
-```sass
-@import
-  "colors/light-typography",
-  "colors/dark-typography"
-```
-{: file='_sass/jekyll-theme-chirpy.scss'}
-
-## Reverse Footnote
-
-[^footnote]: The footnote source
-[^fn-nth-2]: The 2nd footnote source
+最后请大家多注意版权，不要再走到这样的囧境。
