@@ -19,7 +19,7 @@
 -
   type: Telegram
   icon: "fab fa-telegram"
-  url: ''
+  url: 'https://www.telegram.org/'
 # Uncomment and complete the url below to enable more contact options
 # -
 #   type: mastodon
