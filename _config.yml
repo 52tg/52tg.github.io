@@ -91,8 +91,9 @@ avatar: https://cdn.jsdelivr.net/gh/52tg/52tg.github.io/assets/img/avatar.jpg
 toc: true
 
 disqus:
-  comments: false   # boolean type, the global switch for posts comments.
-
+  comments: true
+  shortname: 'sdfsd'
+  
 paginate: 10
 
 # ------------ The following options are not recommended to be modified ------------------
