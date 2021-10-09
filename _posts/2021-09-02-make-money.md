@@ -3,7 +3,7 @@ title: 今天你领红包了吗？
 author: huhansome
 date: 2021-09-02 09:34:00 +0800
 categories: [新鲜事, 赚小钱]
-tags: [支付宝, 支付宝红包, 微信支付, 移动支付，微信]
+tags: [支付宝, 支付宝红包, 微信支付, 微信, 移动支付]
 pin: true
 ---
 
