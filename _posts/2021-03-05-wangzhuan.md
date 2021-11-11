@@ -6,9 +6,10 @@ categories: [流弊技能]
 tags: [2021, 赚钱, 致富, 兼职, 网赚, 手机赚]
 ---
 
+
 怎么赚钱致富？要赚钱致富是不容易的，现在各行各业竞争激烈，想要赚钱一定要选择一个有前景的项目，下面这些项目可以考虑。
 
-<img alt="" src="http://www.jinduoxia.com.cn/d/file/2020-12-08/022970d3df7c294d09dda47c65656be3.jpg" style="width: 500px; height: 266px;"/>
+<img src="http://www.jinduoxia.com.cn/d/file/2020-12-08/022970d3df7c294d09dda47c65656be3.jpg" style="width: 500px; height: 266px;"/>
 
 1、创意礼品
 
