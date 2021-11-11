@@ -6,10 +6,9 @@ categories: [流弊技能]
 tags: [打码赚钱, 赚钱, 致富, 兼职, 网赚, 手机赚]
 ---
 
-
 因为疫情的原因，今年好多人迟迟不能外出工作或上学，那么为了将空闲的时间充分地利用起来，大家也发掘了许多在家就能做的兼职，比如网上授课、制作PPT、写文章，还有就是我们今天要说的“打码赚钱”，最近比较火的一个网上兼职赚钱方法。那么，打码赚钱是真的吗？靠谱吗？下面带大家详细的进行了解。
 
-<img alt="" src="http://www.jinduoxia.com.cn/d/file/2020-09-02/47ac347885b8bbf07632770999f4d26b.gif" style="width: 500px; height: 333px;"/>
+<image alt="" src="http://www.jinduoxia.com.cn/d/file/2020-09-02/47ac347885b8bbf07632770999f4d26b.gif" style="width: 500px; height: 333px;"/>
 
 一、什么是打码赚钱
 
