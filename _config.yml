@@ -201,7 +201,6 @@ sitemap_exclude:  # Sitemap will exclude the following items.
     - Brewfile
     - Brewfile.lock.json
     - build.sh
-    - config.codekit3
 
 
 jekyll-archives:
